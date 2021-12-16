@@ -10,15 +10,15 @@ Hanging Roots (HARAG0N)
 Tuff (HARAG0N)
 Deepslate Bricks (HARAG0N)
 Cracked Deepslate Bricks (HARAG0N)
-Barrier (Zeuselpro, FHLX)
-Structure Void (Zeuselpro, FHLX)
-Raw Gold Block (Zeuselpro, FHLX)
+
 
 
 
 [Items]
 
-
+Raw Gold (Zeuselpro, FHLX)
+Barrier (Zeuselpro, FHLX)
+Structure Void (Zeuselpro, FHLX)
 
 
 [Misc.]
