@@ -20,6 +20,7 @@ Raw Gold (Zeuselpro, FHLX)
 Barrier (Zeuselpro, FHLX)
 Structure Void (Zeuselpro, FHLX)
 Music Disc Pigstep (HiTeeN, HARAG0N)
+Music Disc Otherside (HiTeeN, FHLX)
 
 
 [Misc.]
