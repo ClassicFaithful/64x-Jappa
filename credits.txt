@@ -11,6 +11,9 @@ Tuff (HARAG0N)
 Deepslate Bricks (HARAG0N)
 Cracked Deepslate Bricks (HARAG0N)
 Lightning Rod (HARAG0N)
+Lantern (HARAG0N, FHLX)
+Soul Lantern (HARAG0N, FHLX)
+Chain (HARAG0N, FHLX)
 
 
 
@@ -21,6 +24,8 @@ Barrier (Zeuselpro, FHLX)
 Structure Void (Zeuselpro, FHLX)
 Music Disc Pigstep (HiTeeN, HARAG0N)
 Music Disc Otherside (HiTeeN, FHLX)
+Lantern (HARAG0N, FHLX)
+Soul Lantern (HARAG0N, FHLX)
 
 
 [Misc.]
