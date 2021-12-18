@@ -16,6 +16,9 @@ Soul Lantern (HARAG0N, FHLX)
 Chain (HARAG0N, FHLX)
 Smooth Stone (FHLX)
 Smooth Stone Slab Side (FHLX)
+Stonecutter Bottoom (HARAG0N, FHLX)
+Stonecutter Side (HARAG0N, FHLX)
+Stonecutter Top (HARAG0N)
 
 
 [Items]
