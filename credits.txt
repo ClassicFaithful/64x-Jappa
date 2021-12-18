@@ -19,6 +19,8 @@ Smooth Stone Slab Side (FHLX)
 Stonecutter Bottoom (HARAG0N, FHLX)
 Stonecutter Side (HARAG0N, FHLX)
 Stonecutter Top (HARAG0N)
+Smoker Bottom (FHLX, Evorp)
+Smoker Top (FHLX, Evorp)
 
 
 [Items]
