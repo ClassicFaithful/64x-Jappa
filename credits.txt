@@ -21,6 +21,10 @@ Stonecutter Side (HARAG0N, FHLX)
 Stonecutter Top (HARAG0N)
 Smoker Bottom (FHLX, Evorp)
 Smoker Top (FHLX, Evorp)
+Anvil Top (HARAG0N)
+Anvil (HARAG0N)
+Chipped Anvil Top (HARAG0N)
+Damaged Anvil Top (HARAG0N)
 
 
 [Items]
