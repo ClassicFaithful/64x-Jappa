@@ -14,6 +14,7 @@ Lightning Rod (HARAG0N)
 Lantern (HARAG0N, FHLX)
 Soul Lantern (HARAG0N, FHLX)
 Chain (HARAG0N, FHLX)
+Smooth Stone (FHLX)
 
 
 
