@@ -26,6 +26,7 @@ Anvil (HARAG0N)
 Chipped Anvil Top (HARAG0N)
 Damaged Anvil Top (HARAG0N)
 Calcite (Zeuselpro, FHLX)
+Shroomlight (Zeuselpro, FHLX)
 
 
 [Items]
