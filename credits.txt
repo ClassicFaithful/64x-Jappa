@@ -189,6 +189,7 @@ Dark Oak Door (Zeuselpro)
 Crimson Door (Zeuselpro)
 Birch Door (Zeuselpro)
 Acacia Door (Zeuselpro)
+Amethyst Shard (Zeuselpro)
 
 
 [Misc.]
