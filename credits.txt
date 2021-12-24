@@ -179,7 +179,16 @@ Clock 59 (FHLX, HiTeeN)
 Clock 60 (FHLX, HiTeeN)
 Clock 61 (FHLX, HiTeeN)
 Clock 62 (FHLX, HiTeeN)
-Clock 63 (FHLX, HiTeeN) 
+Clock 63 (FHLX, HiTeeN)
+Warped Door (Zeuselpro)
+Spruce Door (Zeuselpro)
+Oak Door (Zeuselpro)
+Jungle Door (Zeuselpro)
+Iron Door (Zeuselpro)
+Dark Oak Door (Zeuselpro)
+Crimson Door (Zeuselpro)
+Birch Door (Zeuselpro)
+Acacia Door (Zeuselpro)
 
 
 [Misc.]
