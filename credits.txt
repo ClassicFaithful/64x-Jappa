@@ -190,6 +190,8 @@ Crimson Door (Zeuselpro)
 Birch Door (Zeuselpro)
 Acacia Door (Zeuselpro)
 Amethyst Shard (Zeuselpro)
+Item Frame (Qxnten, FHLX)
+Glow Item Frame (Qxnten, FHLX)
 
 
 [Misc.]
