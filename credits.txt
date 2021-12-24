@@ -192,6 +192,7 @@ Acacia Door (Zeuselpro)
 Amethyst Shard (Zeuselpro)
 Item Frame (Qxnten, FHLX)
 Glow Item Frame (Qxnten, FHLX)
+Raw Iron (Zeuselpro, FHLX)
 
 
 [Misc.]
