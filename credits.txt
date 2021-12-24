@@ -193,6 +193,7 @@ Amethyst Shard (Zeuselpro)
 Item Frame (Qxnten, FHLX)
 Glow Item Frame (Qxnten, FHLX)
 Raw Iron (Zeuselpro, FHLX)
+Raw Copper (FHLX, Zeuselpro)
 
 
 [Misc.]
