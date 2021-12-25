@@ -194,6 +194,10 @@ Item Frame (Qxnten, FHLX)
 Glow Item Frame (Qxnten, FHLX)
 Raw Iron (Zeuselpro, FHLX)
 Raw Copper (FHLX, Zeuselpro)
+Chorus Fruit (FHLX)
+Popped Chorus Fruit (FHLX)
+Elytra (Evorp)
+Broken Elytra (FHLX)
 
 
 [Misc.]
