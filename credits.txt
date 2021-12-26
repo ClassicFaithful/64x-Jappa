@@ -89,6 +89,10 @@ Purple Candle Lit (Zeuselpro)
 Red Candle Lit (Zeuselpro)
 White Candle Lit (Zeuselpro)
 Yellow Candle Lit (Zeuselpro)
+TNT Side (FHLX)
+TNT Bottom (FHLX)
+TNT Top (FHLX)
+End Stone Bricks (HARAG0N)
 
 [Items]
 
@@ -198,6 +202,8 @@ Chorus Fruit (FHLX)
 Popped Chorus Fruit (FHLX)
 Elytra (Evorp)
 Broken Elytra (FHLX)
+Pointed Dripstone (HARAG0N)
+Seagrass (HARAG0N)
 
 
 [Misc.]
