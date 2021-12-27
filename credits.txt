@@ -93,6 +93,8 @@ TNT Side (FHLX)
 TNT Bottom (FHLX)
 TNT Top (FHLX)
 End Stone Bricks (HARAG0N)
+Chiseled Deepsslate (HARAG0N)
+Deepslate Tiles (HARAG0N)
 
 [Items]
 
