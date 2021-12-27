@@ -204,6 +204,12 @@ Elytra (Evorp)
 Broken Elytra (FHLX)
 Pointed Dripstone (HARAG0N)
 Seagrass (HARAG0N)
+Minecart (Zeuselpro, FHLX, HARAG0N)
+Hopper Minecart (FHLX)
+TNT Minecart (FHLX)
+Command Block Minecart (FHLX)
+Furnace Minecart (FHLX)
+Chest Minecart (FHLX)
 
 
 [Misc.]
