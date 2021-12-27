@@ -96,6 +96,7 @@ End Stone Bricks (HARAG0N)
 Chiseled Deepslate (HARAG0N)
 Deepslate Tiles (HARAG0N)
 Cobbled Deepslate (FHLX)
+Polished Deepslate (FHLX)
 
 [Items]
 
