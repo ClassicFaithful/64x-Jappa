@@ -4,6 +4,8 @@ Added:
 
 [Blocks]
 
+Crimson Stem (FHLX)
+Warped Stem (FHLX)
 
 [Items]
 
