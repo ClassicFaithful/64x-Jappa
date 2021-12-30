@@ -6,6 +6,8 @@ Added:
 
 Crimson Stem (FHLX)
 Warped Stem (FHLX)
+Item Frame (FHLX)
+Glow Item Frame (FHLX)
 
 [Items]
 
