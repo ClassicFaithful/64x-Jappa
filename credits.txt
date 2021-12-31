@@ -8,6 +8,8 @@ Crimson Stem (FHLX)
 Warped Stem (FHLX)
 Item Frame (FHLX)
 Glow Item Frame (FHLX)
+Crimson Stem Top (FHLX)
+Warped Stem Top (FHLX)
 
 [Items]
 
