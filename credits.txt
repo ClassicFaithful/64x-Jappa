@@ -10,6 +10,8 @@ Item Frame (FHLX)
 Glow Item Frame (FHLX)
 Crimson Stem Top (FHLX)
 Warped Stem Top (FHLX)
+Amethyst Block (FHLX)
+Budding Amethyst (FHLX)
 
 [Items]
 
