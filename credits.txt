@@ -19,6 +19,10 @@ Chiseled Nether Bricks (FHLX)
 Purpur Block (FHLX)
 Purpur Pillar (FHLX)
 Purpur Pillar Top (FHLX)
+Amethyst Cluster (FHLX)
+Large Amethyst Bud (FHLX)
+Medium Amethyst Bud (FHLX)
+Small Amethyst Bud (FHLX)
 
 [Items]
 
