@@ -12,6 +12,10 @@ Crimson Stem Top (FHLX)
 Warped Stem Top (FHLX)
 Amethyst Block (FHLX)
 Budding Amethyst (FHLX)
+Nether Bricks (FHLX)
+Cracked Nether Bricks (FHLX)
+Red Nether Bricks (FHLX)
+Chiseled Nether Bricks (FHLX)
 
 [Items]
 
