@@ -16,6 +16,9 @@ Nether Bricks (FHLX)
 Cracked Nether Bricks (FHLX)
 Red Nether Bricks (FHLX)
 Chiseled Nether Bricks (FHLX)
+Purpur Block (FHLX)
+Purpur Pillar (FHLX)
+Purpur Pillar Top (FHLX)
 
 [Items]
 
