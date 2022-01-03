@@ -23,6 +23,7 @@ Amethyst Cluster (FHLX)
 Large Amethyst Bud (FHLX)
 Medium Amethyst Bud (FHLX)
 Small Amethyst Bud (FHLX)
+Nether Gold Ore [Fixed] (FHLX)
 
 [Items]
 
