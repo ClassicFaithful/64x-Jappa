@@ -24,6 +24,10 @@ Large Amethyst Bud (FHLX)
 Medium Amethyst Bud (FHLX)
 Small Amethyst Bud (FHLX)
 Nether Gold Ore [Fixed] (FHLX)
+Brown Mushroom (FHLX)
+Red Mushroom (FHLX)
+Warped Fungus (FHLX)
+Crimson Fungus (FHLX)
 
 [Items]
 
