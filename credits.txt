@@ -28,6 +28,16 @@ Brown Mushroom (FHLX)
 Red Mushroom (FHLX)
 Warped Fungus (FHLX)
 Crimson Fungus (FHLX)
+Obsidian (FHLX)
+Respawn Anchor Top (FHLX)
+Respawn Anchor Top Off (FHLX)
+Respawn Anchor Side 0 (FHLX)
+Respawn Anchor Side 1 (FHLX)
+Respawn Anchor Side 2 (FHLX)
+Respawn Anchor Side 3 (FHLX)
+Respawn Anchor Side 4 (FHLX)
+Crying Obsidian (FHLX)
+
 
 [Items]
 
