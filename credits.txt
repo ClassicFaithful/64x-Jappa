@@ -47,5 +47,9 @@ Iron Sword (Evorp)
 Netherite Sword (Evorp)
 Stone Sword (Evorp)
 Wooden Sword (Evorp)
+Saddle (Zeuselpro)
+Experience Bottle (FHLX)
+Warped Fungus on a Stick (FHLX)
+Carrot on a Stick (FHLX)
 
 [Misc.]
