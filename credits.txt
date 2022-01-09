@@ -62,6 +62,7 @@ Salmon Bucket (FHLX)
 Tropical Fish Bucket (FHLX)
 Copper Ingot (FHLX)
 Netherite Ingot (FHLX)
+Beetroot (FHLX)
 
 
 [Misc.]
