@@ -42,6 +42,7 @@ Respawn Anchor Side 3 (FHLX)
 Respawn Anchor Side 4 (FHLX)
 Crying Obsidian (FHLX)
 Glass Pane Top [1.18] (Evorp)
+Granite (Evorp)
 
 
 [Items]
