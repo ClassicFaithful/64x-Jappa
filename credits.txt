@@ -66,7 +66,10 @@ Tropical Fish Bucket (FHLX)
 Copper Ingot (FHLX)
 Netherite Ingot (FHLX)
 Beetroot (FHLX)
-
+Diamond Horse Armor (FHLX, Evorp)
+Golden Horse Armor (FHLX, Evorp)
+Iron Horse Armor (FHLX, Evorp)
+Leather Horse Armor (FHLX, Evorp)
 
 [Misc.]
 
