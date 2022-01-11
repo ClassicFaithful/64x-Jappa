@@ -171,6 +171,10 @@ Chiseled Deepslate (HARAG0N)
 Deepslate Tiles (HARAG0N)
 Cobbled Deepslate (FHLX)
 Polished Deepslate (FHLX)
+Diamond Horse Armor (FHLX, Evorp)
+Golden Horse Armor (FHLX, Evorp)
+Iron Horse Armor (FHLX, Evorp)
+Leather Horse Armor (FHLX, Evorp)
 
 [Items]
 
