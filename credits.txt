@@ -70,6 +70,8 @@ Diamond Horse Armor (FHLX, Evorp)
 Golden Horse Armor (FHLX, Evorp)
 Iron Horse Armor (FHLX, Evorp)
 Leather Horse Armor (FHLX, Evorp)
+Fire Charge (FHLX, Evorp)
+Nether Star (ZapPack)
 
 [Misc.]
 
