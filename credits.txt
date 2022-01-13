@@ -7,6 +7,7 @@ Changelogs (Update D6.6)
 Added:
 
 [Blocks]
+Painting Back (Evorp)
 
 [Items]
 
