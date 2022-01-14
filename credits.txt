@@ -7,9 +7,14 @@ Changelogs (Update D6.6)
 Added:
 
 [Blocks]
+
 Painting Back (Evorp)
+Nether Quartz Ore (FHLX)
+Smooth Basalt (Zeuselpro, FHLX)
 
 [Items]
+
+Iron Nugget (Zeuselpro)
 
 [Misc.]
 
