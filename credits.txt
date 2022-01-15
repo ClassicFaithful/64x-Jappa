@@ -13,6 +13,7 @@ Nether Quartz Ore (FHLX)
 Smooth Basalt (Zeuselpro, FHLX)
 Bookshelf (FHLX)
 Bookshelf CTM (Evorp)
+Cactus Top (Evorp)
 
 [Items]
 
