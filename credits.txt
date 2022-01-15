@@ -12,6 +12,7 @@ Painting Back (Evorp)
 Nether Quartz Ore (FHLX)
 Smooth Basalt (Zeuselpro, FHLX)
 Bookshelf (FHLX)
+Bookshelf CTM (Evorp)
 
 [Items]
 
