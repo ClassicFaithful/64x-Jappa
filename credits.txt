@@ -14,6 +14,8 @@ Smooth Basalt (Zeuselpro, FHLX)
 Bookshelf (FHLX)
 Bookshelf CTM (Evorp)
 Cactus Top (Evorp)
+Nether Wart Block (Zeuselpro, FHLX)
+Warped Wart Block (Zeuselpro, FHLX)
 
 [Items]
 
