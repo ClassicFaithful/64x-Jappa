@@ -18,6 +18,9 @@ Nether Wart Block (Zeuselpro, FHLX)
 Warped Wart Block (Zeuselpro, FHLX)
 Crimson Nylium Top (Evorp, FHLX)
 Warped Nylium Top (Evorp, FHLX)
+Raw Copper Block (FHLX)
+Raw Gold Block (FHLX)
+Raw Iron Block (Zeuselpro, FHLX)
 
 [Items]
 
