@@ -25,6 +25,7 @@ Raw Iron Block (Zeuselpro, FHLX)
 [Items]
 
 Iron Nugget (Zeuselpro)
+Feather (FHLX, Evorp)
 
 [Misc.]
 
