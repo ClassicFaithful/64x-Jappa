@@ -21,11 +21,14 @@ Warped Nylium Top (Evorp, FHLX)
 Raw Copper Block (FHLX)
 Raw Gold Block (FHLX)
 Raw Iron Block (Zeuselpro, FHLX)
+Nether Portal (ZapPack)
+Respawn Anchor Top (ZapPack, FHLX)
 
 [Items]
 
 Iron Nugget (Zeuselpro)
 Feather (FHLX, Evorp)
+Shulker Shell (Zeuselpro, FHLX)
 
 [Misc.]
 
