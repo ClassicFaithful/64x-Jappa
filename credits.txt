@@ -23,12 +23,19 @@ Raw Gold Block (FHLX)
 Raw Iron Block (Zeuselpro, FHLX)
 Nether Portal (ZapPack)
 Respawn Anchor Top (ZapPack, FHLX)
+Magma Block (FHLX)
+Cauldron Side (HARAG0N)
+Hopper Outside (HARAG0N)
 
 [Items]
 
 Iron Nugget (Zeuselpro)
 Feather (FHLX, Evorp)
 Shulker Shell (Zeuselpro, FHLX)
+Redstone Dust (FHLX)
+Glowstone Dust (FHLX)
+Gunpowder (FHLX)
+Sugar (FHLX)
 
 [Misc.]
 
