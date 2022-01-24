@@ -36,6 +36,11 @@ Redstone Dust (FHLX)
 Glowstone Dust (FHLX)
 Gunpowder (FHLX)
 Sugar (FHLX)
+Potion (Evorp)
+Glass Bottle (Evorp)
+Splash Potion (Evorp)
+Lingering Potion (Evorp)
+Potion Overlay (Evorp)
 
 [Misc.]
 
