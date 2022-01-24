@@ -26,6 +26,16 @@ Respawn Anchor Top (ZapPack, FHLX)
 Magma Block (FHLX)
 Cauldron Side (HARAG0N)
 Hopper Outside (HARAG0N)
+Pointed Dripstone Up Base (FHLX)
+Pointed Dripstone Up Middle (FHLX)
+Pointed Dripstone Up Frustom (FHLX)
+Pointed Dripstone Up Tip Merge (FHLX)
+Pointed Dripstone Up Tip (FHLX)
+Pointed Dripstone Down Base (FHLX)
+Pointed Dripstone Down Middle (FHLX)
+Pointed Dripstone Down Frustom (FHLX)
+Pointed Dripstone Down Tip Merge (FHLX)
+Pointed Dripstone Down Tip (FHLX)
 
 [Items]
 
