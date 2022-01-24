@@ -1,8 +1,12 @@
 NOTE: If there are duplicate contributions, the one on top will always be the current one.
 
-NOTE II: If there are textures in the list which are no longer in the pack this is not a bug, it is just a result of the massive placeholder/bad texture removal in D6.2/6.3.
+NOTE II: If there are textures in the list which are no longer in the pack this is not a bug, it is just a result of the massive placeholder/bad texture removal in D6.2/D6.3.
+
+
 
 Changelogs (Update D6.6)
+
+
 
 Added:
 
@@ -52,9 +56,11 @@ Splash Potion (Evorp)
 Lingering Potion (Evorp)
 Potion Overlay (Evorp)
 
-[Misc.]
+
 
 Changelogs (Update D6.5)
+
+
 
 Added:
 
@@ -96,7 +102,6 @@ Crying Obsidian (FHLX)
 Glass Pane Top [1.18] (Evorp)
 Granite (Evorp)
 
-
 [Items]
 
 Diamond Sword (Evorp)
@@ -125,11 +130,11 @@ Leather Horse Armor (FHLX, Evorp)
 Fire Charge (FHLX, Evorp)
 Nether Star (ZapPack)
 
-[Misc.]
-
 
 
 Changelogs (Update D6.4)
+
+
 
 Added:
 
@@ -498,6 +503,8 @@ Blaze Powder (FHLX)
 
 Changelogs (Update D6.1)
 
+
+
 Added:
 
 [Blocks]
@@ -770,7 +777,11 @@ Diamond Chestplate (David, Evorp)
 
 Font Assets (Morin) [Updated to 1.17]
 
+
+
 Changelogs (Update D5)
+
+
 
 Added:
 
@@ -910,9 +921,15 @@ End stone (FHLX)
 Mossy Cobblestone (FHLX)
 Smooth Stone Slab Side (FHLX, Re-color by Evorp)
 
-Pre-D5
+
+
+Changelogs (Pre-D5)
+
+
 
 Almost all of these textures have been removed and as a result they are all lumped under one category.
+
+
 
 [Blocks]
 
