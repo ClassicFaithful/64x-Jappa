@@ -53,6 +53,14 @@ Stripped Acacia Log (FHLX)
 Stripped Spruce Log (FHLX)
 Stripped Birch Log (FHLX)
 Stripped Jungle Log (FHLX)
+Stripped Warped Stem Top (HARAG0N)
+Stripped Crimson Stem Top (HARAG0N)
+Stripped Oak Log Top (HARAG0N)
+Stripped Dark Oak Log Top (HARAG0N)
+Stripped Acacia Log Top (HARAG0N)
+Stripped Spruce Log Top (HARAG0N)
+Stripped Birch Log Top (HARAG0N)
+Stripped Jungle Log Top (HARAG0N)
 
 [Items]
 
