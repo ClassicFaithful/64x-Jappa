@@ -2,7 +2,17 @@ NOTE: If there are duplicate contributions, the one on top will always be the cu
 
 NOTE II: If there are textures in the list which are no longer in the pack this is not a bug, it is just a result of the massive placeholder/bad texture removal in D6.2/D6.3.
 
+Changelogs (Update D7)
 
+
+
+Added:
+
+[Blocks]
+
+
+
+[Items]
 
 Changelogs (Update D6.6)
 
