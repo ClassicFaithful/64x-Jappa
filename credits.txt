@@ -51,6 +51,14 @@ Repeating Command Block Back (FHLX)
 Repeating Command Block Front (FHLX)
 Repeating Command Block Conditional (FHLX)
 Repeating Command Block Side (FHLX)
+Warped Roots (FHLX)
+Crimson Roots (FHLX)
+Warped Roots Pot (FHLX)
+Crimson Roots Pot (FHLX)
+Beehive Front (FHLX)
+Beehive Front Honey (FHLX)
+Beehive Side (FHLX)
+Beehive End (FHLX)
 
 
 
