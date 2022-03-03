@@ -64,7 +64,10 @@ Beehive End (FHLX)
 
 [Items]
 
-
+Chain (Zeuselpro)
+Glow Ink Sac (HARAG0N)
+Ink Sac (HARAG0N)
+Pumpkin Pie (HARAG0N)
 
 Changelogs (Update D6.6)
 
