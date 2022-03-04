@@ -59,6 +59,8 @@ Beehive Front (FHLX)
 Beehive Front Honey (FHLX)
 Beehive Side (FHLX)
 Beehive End (FHLX)
+Lava Flow (Evorp)
+Lava Still (Evorp)
 
 
 
