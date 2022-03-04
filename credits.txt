@@ -68,6 +68,8 @@ Chain (Zeuselpro)
 Glow Ink Sac (HARAG0N)
 Ink Sac (HARAG0N)
 Pumpkin Pie (HARAG0N)
+Phantom Membrane (FHLX)
+Spyglass (FHLX)
 
 Changelogs (Update D6.6)
 
