@@ -72,6 +72,8 @@ Ink Sac (HARAG0N)
 Pumpkin Pie (HARAG0N)
 Phantom Membrane (FHLX)
 Spyglass (FHLX)
+Flower Pot (FHLX)
+Cocoa Beans (FHLX)
 
 Changelogs (Update D6.6)
 
