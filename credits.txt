@@ -74,6 +74,7 @@ Phantom Membrane (FHLX)
 Spyglass (FHLX)
 Flower Pot (FHLX)
 Cocoa Beans (FHLX)
+Honey Bottle FHLX
 
 Changelogs (Update D6.6)
 
