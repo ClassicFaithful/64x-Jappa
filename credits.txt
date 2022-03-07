@@ -74,7 +74,15 @@ Phantom Membrane (FHLX)
 Spyglass (FHLX)
 Flower Pot (FHLX)
 Cocoa Beans (FHLX)
-Honey Bottle FHLX
+Honey Bottle (FHLX)
+Crossbow Standby (FHLX)
+Crossbow Pulling 0 (FHLX)
+Crossbow Pulling 1 (FHLX)
+Crossbow Pulling 2 (FHLX)
+Crossbow Arrow (FHLX)
+Crosssbow Firework (FHLX)
+Dragon Breath (FHLX)
+Hopper (FHLX)
 
 Changelogs (Update D6.6)
 
