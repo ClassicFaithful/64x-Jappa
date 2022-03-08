@@ -61,6 +61,9 @@ Beehive Side (FHLX)
 Beehive End (FHLX)
 Lava Flow (Evorp)
 Lava Still (Evorp)
+Chorus Plant (Zeuselpro)
+Chorus Flower Dead (Zeuselpro)
+Chorus Flower (Zeuselpro)
 
 
 
@@ -83,6 +86,9 @@ Crossbow Arrow (FHLX)
 Crosssbow Firework (FHLX)
 Dragon Breath (FHLX)
 Hopper (FHLX)
+Trident (FHLX)
+Scute (FHLX)
+Ghast Tear (Zeuselpro)
 
 Changelogs (Update D6.6)
 
