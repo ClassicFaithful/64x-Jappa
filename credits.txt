@@ -14,6 +14,9 @@ Honey Block Bottom (FHLX)
 Honey Block Side (FHLX)
 Honey Block Top (FHLX)
 Prismarine Bricks (FHLX)
+Nether Wart Stage 0 (FHLX)
+Nether Wart Stage 1 (FHLX)
+Nether Wart Stage 2 (FHLX)
 
 
 
