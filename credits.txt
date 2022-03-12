@@ -17,6 +17,8 @@ Prismarine Bricks (FHLX)
 Nether Wart Stage 0 (FHLX)
 Nether Wart Stage 1 (FHLX)
 Nether Wart Stage 2 (FHLX)
+Nether Sprouts (FHLX)
+Slime  Block (FHLX)
 
 
 
