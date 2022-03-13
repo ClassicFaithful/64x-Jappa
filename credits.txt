@@ -19,6 +19,8 @@ Nether Wart Stage 1 (FHLX)
 Nether Wart Stage 2 (FHLX)
 Nether Sprouts (FHLX)
 Slime  Block (FHLX)
+Basalt Top (FHLX)
+Basalt Side (FHLX)
 
 
 
