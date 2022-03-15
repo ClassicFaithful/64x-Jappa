@@ -21,6 +21,14 @@ Nether Sprouts (FHLX)
 Slime  Block (FHLX)
 Basalt Top (FHLX)
 Basalt Side (FHLX)
+Smithing Table Side (FHLX)
+Smithing Table Front (FHLX)
+Smithing Table Bottom (FHLX)
+Smithing Table Top (FHLX)
+Melon Side (FHLX)
+Melon Top (FHLX)
+Pumpkin Side (FHLX)
+Pumpkin Top (FHLX)
 
 
 
