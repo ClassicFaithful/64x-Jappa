@@ -29,12 +29,19 @@ Melon Side (FHLX)
 Melon Top (FHLX)
 Pumpkin Side (FHLX)
 Pumpkin Top (FHLX)
+Chiseled Stone Bricks (Zeuselpro)
 
 
 
 
 [Items]
 
+Trident [Fixes] (FHLX)
+Kelp (FHLX)
+Dried Kelp (FHLX)
+Rabbit Foot (FHLX)
+Prismarine Shard (HARAG0N, FHLX)
+Honeycomb (Zeuselpro)
 
 
 
