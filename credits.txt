@@ -40,8 +40,11 @@ Trident [Fixes] (FHLX)
 Kelp (FHLX)
 Dried Kelp (FHLX)
 Rabbit Foot (FHLX)
+Netherite Scrap (FHLX)
+Sweet Berries (FHLX)
 Prismarine Shard (HARAG0N, FHLX)
 Honeycomb (Zeuselpro)
+
 
 
 
