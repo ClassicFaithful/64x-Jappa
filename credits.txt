@@ -37,6 +37,8 @@ Chiseled Stone Bricks (Zeuselpro)
 [Items]
 
 Trident [Fixes] (FHLX)
+Hopper [Fixes] (FHLX)
+Painting (FHLX)
 Kelp (FHLX)
 Dried Kelp (FHLX)
 Rabbit Foot (FHLX)
@@ -44,6 +46,7 @@ Netherite Scrap (FHLX)
 Sweet Berries (FHLX)
 Prismarine Shard (HARAG0N, FHLX)
 Honeycomb (Zeuselpro)
+Prismarine Crystals (Zeuselpro)
 
 
 
