@@ -27,8 +27,6 @@ Smithing Table Bottom (FHLX)
 Smithing Table Top (FHLX)
 Melon Side (FHLX)
 Melon Top (FHLX)
-Pumpkin Side (FHLX)
-Pumpkin Top (FHLX)
 Chiseled Stone Bricks (Zeuselpro)
 
 
