@@ -2,6 +2,22 @@ NOTE: If there are duplicate contributions, the one on top will always be the cu
 
 NOTE II: If there are textures in the list which are no longer in the pack this is not a bug, it is just a result of the massive placeholder/bad texture removal in D6.2/D6.3.
 
+Changelogs (Update D7.2)
+
+
+
+Added: 
+
+[Blocks]
+Carved Pumpkin (FHLX)
+Jack'o'Lantern (FHLX)
+Pumpkin (FHLX)
+
+
+
+[Items]
+
+
 Changelogs (Update D7.1)
 
 
@@ -45,9 +61,6 @@ Sweet Berries (FHLX)
 Prismarine Shard (FHLX)
 Honeycomb (Zeuselpro)
 Prismarine Crystals (Zeuselpro)
-
-
-
 
 Changelogs (Update D7)
 
@@ -211,8 +224,6 @@ Splash Potion (Evorp)
 Lingering Potion (Evorp)
 Potion Overlay (Evorp)
 
-
-
 Changelogs (Update D6.5)
 
 
@@ -284,8 +295,6 @@ Iron Horse Armor (FHLX, Evorp)
 Leather Horse Armor (FHLX, Evorp)
 Fire Charge (FHLX, Evorp)
 Nether Star (ZapPack)
-
-
 
 Changelogs (Update D6.4)
 
@@ -654,8 +663,6 @@ Crimson Sign (FHLX)
 Warped Sign (FHLX)
 Blaze Powder (FHLX)
 
-
-
 Changelogs (Update D6.1)
 
 
@@ -932,8 +939,6 @@ Diamond Chestplate (David, Evorp)
 
 Font Assets (Morin) [Updated to 1.17]
 
-
-
 Changelogs (Update D5)
 
 
@@ -1075,8 +1080,6 @@ Cobblestone (FHLX)
 End stone (FHLX)
 Mossy Cobblestone (FHLX)
 Smooth Stone Slab Side (FHLX, Re-color by Evorp)
-
-
 
 Changelogs (Pre-D5)
 
