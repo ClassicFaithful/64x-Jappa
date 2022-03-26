@@ -12,6 +12,12 @@ Added:
 Carved Pumpkin (FHLX)
 Jack'o'Lantern (FHLX)
 Pumpkin (FHLX)
+Honeycomb (FHLX)
+Brown Mushroom BLock (Zeuselpro)
+Mushroom Block Inside (Zeuselpro)
+Mushrooom Stem (Zeuselpro)
+Red Mushrooom Block (Zeuselpro)
+Soul Lantern [Fixes] (FHLX, Zeuselpro)
 
 
 
