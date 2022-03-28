@@ -25,6 +25,11 @@ Blackstone Top (FHLX)
 Copper Block (FHLX)
 Cut Copper (FHLX)
 Stonecutter Saw (Harag0n)
+Composter Top (FHLX)
+Composter Ready (FHLX)
+Composter Compost (FHLX)
+Composter Side (FHLX)
+Composter Bottom (FHLX)
 
 
 
