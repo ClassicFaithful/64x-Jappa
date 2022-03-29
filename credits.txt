@@ -30,6 +30,10 @@ Composter Ready (FHLX)
 Composter Compost (FHLX)
 Composter Side (FHLX)
 Composter Bottom (FHLX)
+Fletching Table Top (FHLX)
+Fletching Table Side 1 (FHLX)
+Fletching Table Side 2 (FHLX)
+Fletching Table Side 3 (FHLX)
 
 
 
