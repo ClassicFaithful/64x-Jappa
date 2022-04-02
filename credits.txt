@@ -39,6 +39,17 @@ Fletching Table Side 3 (FHLX)
 
 [Items]
 
+Cauldron (FHLX)
+Rabbit Hide (FHLX)
+Sea Pickle (FHLX)
+Bamboo (FHLX)
+Light 0 (FHLX)
+Light 1 (FHLX)
+Light 2 (FHLX)
+Light 3 (FHLX)
+Light 4 (FHLX)
+Light 5 (FHLX)
+
 
 Changelogs (Update D7.1)
 
