@@ -65,6 +65,10 @@ Light 8 (FHLX)
 Light 9 (FHLX)
 Light 10 (FHLX)
 Light 11 (FHLX)
+Light 12 (FHLX)
+Light 13 (FHLX)
+Light 14 (FHLX)
+Light 15 (FHLX)
 
 
 Changelogs (Update D7.1)
