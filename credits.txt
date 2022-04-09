@@ -6,6 +6,28 @@ Changelogs (Update D7.2)
 
 
 
+[Blocks]
+Tube Coral (FHLX)
+Tube Coral Fan (FHLX)
+Tube Coral Block (FHLX)
+Dead Tube Coral (FHLX)
+Dead Tube Coral Fan (FHLX)
+Dead Tube Coral Block (FHLX)
+Horn Coral (FHLX)
+Horn Coral Fan (FHLX)
+Horn Coral Block (FHLX)
+Dead Horn Coral (FHLX)
+Dead Horn Coral Fan (FHLX)
+Dead Horn Coral Block (FHLX)
+
+
+[Items]
+
+
+Changelogs (Update D7.2)
+
+
+
 Added: 
 
 [Blocks]
