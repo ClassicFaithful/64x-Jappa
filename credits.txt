@@ -21,6 +21,13 @@ Horn Coral Block (FHLX)
 Dead Horn Coral (FHLX)
 Dead Horn Coral Fan (FHLX)
 Dead Horn Coral Block (FHLX)
+Fire Coral (FHLX)
+Fire Coral Fan (FHLX)
+Fire Coral Block (FHLX)
+Dead Fire Coral (FHLX)
+Dead Fire Coral Fan (FHLX)
+Dead Fire Coral Block (FHLX)
+
 
 
 [Items]
