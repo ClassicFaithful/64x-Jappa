@@ -27,10 +27,19 @@ Fire Coral Block (FHLX)
 Dead Fire Coral (FHLX)
 Dead Fire Coral Fan (FHLX)
 Dead Fire Coral Block (FHLX)
+Bubble Coral (FHLX)
+Bubble Coral Fan (FHLX)
+Bubble Coral Block (FHLX)
+Dead Bubble Coral (FHLX)
+Dead Bubble Coral Fan (FHLX)
+Dead Bubble Coral Block (FHLX)
+
 
 
 
 [Items]
+Campfire (Zeuselpro)
+Soul Campfire (Zeuselpro)
 
 
 Changelogs (Update D7.2)
