@@ -1,7 +1,7 @@
 # Classic Faithful 64x Jappa
 The 64x part in the Classic Faithful lineup, aiming to bring back the original painted look of Vattic's Faithful pack.
 
-<img src="https://github.com/Faithful-Resource-Pack/NewBr/blob/master/social%20media/banners/pmc/cf64_banner.png?raw=true" align="center" height="384px">
+<img src="https://database.faithfulpack.net/images/branding/social%20media/banners/pmc/cf64_banner.png" align="center" height="384px">
 
 # How to actually get to the pack 
 ## Important Note: Only version 1.18 is supported and actually has files in the branches, your GitHub is not broken and this is not a bug.
