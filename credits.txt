@@ -40,6 +40,9 @@ Dead Bubble Coral Block (FHLX)
 [Items]
 Campfire (Zeuselpro)
 Soul Campfire (Zeuselpro)
+Bell (FHLX, Evorp)
+Bundle Filled (FHLX)
+Bundle (FHLX)
 
 
 Changelogs (Update D7.2)
