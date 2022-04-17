@@ -43,6 +43,8 @@ Soul Campfire (Zeuselpro)
 Bell (FHLX, Evorp)
 Bundle Filled (FHLX)
 Bundle (FHLX)
+Glow Berries (FHLX)
+End Crystal (FHLX)
 
 
 Changelogs (Update D7.2)
