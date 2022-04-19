@@ -76,6 +76,7 @@ SGA W (Morin)
 SGA X (Morin)
 SGA Y (Morin)
 SGA Z (Morin)
+Flash (FHLX)
 
 
 Changelogs (Update D7.2)
