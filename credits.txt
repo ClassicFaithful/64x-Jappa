@@ -2,11 +2,14 @@ NOTE: If there are duplicate contributions, the one on top will always be the cu
 
 NOTE II: If there are textures in the list which are no longer in the pack this is not a bug, it is just a result of the massive placeholder/bad texture removal in D6.2/D6.3.
 
+
+
 Changelogs (Update D7.3)
 
 
 
 [Blocks]
+
 Blackstone (FHLX)
 Gilded Blackstone (FHLX)
 Tube Coral (FHLX)
@@ -34,10 +37,8 @@ Dead Bubble Coral (FHLX)
 Dead Bubble Coral Fan (FHLX)
 Dead Bubble Coral Block (FHLX)
 
-
-
-
 [Items]
+
 Campfire (Zeuselpro)
 Soul Campfire (Zeuselpro)
 Bell (FHLX, Evorp)
@@ -47,9 +48,8 @@ Glow Berries (FHLX)
 End Crystal (FHLX)
 Nautilus Shell (FHLX)
 
-
-
 [Particles]
+
 SGA A (Morin)
 SGA B (Morin)
 SGA C (Morin)
@@ -79,13 +79,13 @@ SGA Z (Morin)
 Flash (FHLX)
 
 
+
 Changelogs (Update D7.2)
 
 
 
-Added: 
-
 [Blocks]
+
 Carved Pumpkin (FHLX)
 Jack'o'Lantern (FHLX)
 Pumpkin (FHLX)
@@ -93,7 +93,7 @@ Honeycomb (FHLX)
 Brown Mushroom BLock (Zeuselpro)
 Mushroom Block Inside (Zeuselpro)
 Mushrooom Stem (Zeuselpro)
-Red Mushrooom Block (Zeuselpro)
+Red Mushroom Block (Zeuselpro)
 Soul Lantern [Fixes] (FHLX, Zeuselpro)
 Polished Blackstone Bricks (FHLX)
 Cracked Polished Blackstone Bricks (FHLX)
@@ -109,8 +109,6 @@ Cartography Table Top (FHLX)
 Cartography Table Side 1 (FHLX)
 Cartography Table Side 2 (FHLX)
 Cartography Table Side 3 (FHLX)
-
-
 
 [Items]
 
@@ -151,8 +149,6 @@ Changelogs (Update D7.1)
 
 
 
-Added:
-
 [Blocks]
 
 Honey Block Bottom (FHLX)
@@ -174,9 +170,6 @@ Melon Side (FHLX)
 Melon Top (FHLX)
 Chiseled Stone Bricks (Zeuselpro)
 
-
-
-
 [Items]
 
 Trident [Fixes] (FHLX)
@@ -191,11 +184,11 @@ Prismarine Shard (FHLX)
 Honeycomb (Zeuselpro)
 Prismarine Crystals (Zeuselpro)
 
+
+
 Changelogs (Update D7)
 
 
-
-Added:
 
 [Blocks]
 
@@ -254,8 +247,6 @@ Chorus Plant (Zeuselpro)
 Chorus Flower Dead (Zeuselpro)
 Chorus Flower (Zeuselpro)
 
-
-
 [Items]
 
 Chain (Zeuselpro)
@@ -280,11 +271,11 @@ Trident (FHLX)
 Scute (FHLX)
 Ghast Tear (Zeuselpro)
 
+
+
 Changelogs (Update D6.6)
 
 
-
-Added:
 
 [Blocks]
 
@@ -353,11 +344,11 @@ Splash Potion (Evorp)
 Lingering Potion (Evorp)
 Potion Overlay (Evorp)
 
+
+
 Changelogs (Update D6.5)
 
 
-
-Added:
 
 [Blocks]
 
@@ -425,11 +416,11 @@ Leather Horse Armor (FHLX, Evorp)
 Fire Charge (FHLX, Evorp)
 Nether Star (ZapPack)
 
+
+
 Changelogs (Update D6.4)
 
 
-
-Added:
 
 [Blocks]
 
@@ -648,9 +639,11 @@ Command Block Minecart (FHLX)
 Furnace Minecart (FHLX)
 Chest Minecart (FHLX)
 
+
+
 Changelogs (Update D6.2/D6.3)
 
-Added:
+
 
 [Blocks]
 
@@ -792,11 +785,11 @@ Crimson Sign (FHLX)
 Warped Sign (FHLX)
 Blaze Powder (FHLX)
 
+
+
 Changelogs (Update D6.1)
 
 
-
-Added:
 
 [Blocks]
 
@@ -1068,11 +1061,11 @@ Diamond Chestplate (David, Evorp)
 
 Font Assets (Morin) [Updated to 1.17]
 
+
+
 Changelogs (Update D5)
 
 
-
-Added:
 
 Bedrock (FHLX)
 Grass (jogurciQ)
@@ -1086,7 +1079,7 @@ Spruce Logs (Fabri)
 Acacia Logs (Fabri)
 Accented [FONT] (Morin)
 Ascii [FONT] (Morin)
-Ascii_sga [FONT] (Morin)
+Ascii SGA [FONT] (Morin)
 Obsidian (FHLX)
 Bricks (FHLX)
 Diorite (FHLX)
@@ -1095,7 +1088,7 @@ Diamond Ore (FHLX)
 Coal Ore (FHLX)
 Gold Ore (FHLX)
 Iron Ore (FHLX)
-Restone Ore (FHLX)
+Redstone Ore (FHLX)
 Diamond Block (FHLX)
 Gold Block (FHLX)
 Gray Wool (ZapPack, FHLX)
@@ -1206,17 +1199,17 @@ Furnace Side (FHLX)
 Furnace Front (Evorp)
 Furnace Front On (Evorp)
 Cobblestone (FHLX)
-End stone (FHLX)
+End Stone (FHLX)
 Mossy Cobblestone (FHLX)
 Smooth Stone Slab Side (FHLX, Re-color by Evorp)
+
+
 
 Changelogs (Pre-D5)
 
 
 
 Almost all of these textures have been removed and as a result they are all lumped under one category.
-
-
 
 [Blocks]
 
