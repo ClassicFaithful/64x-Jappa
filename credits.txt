@@ -21,6 +21,7 @@ Dried Kelp Side (FHLX)
 Dried Kelp Top (FHLX)
 Oxidized Copper (FHLX)
 Oxidized Cut Copper (FHLX)
+End Rod (miniluv73)
 
 
 
@@ -43,6 +44,14 @@ Explosion 13 (FHLX)
 Explosion 14 (FHLX)
 Explosion 15 (FHLX)
 Soul Fire Flame (FHLX)
+Glitter 0 (Evorp)
+Glitter 1 (Evorp)
+Glitter 2 (Evorp)
+Glitter 3 (Evorp)
+Glitter 4 (Evorp)
+Glitter 5 (Evorp)
+Glitter 6 (Evorp)
+Glitter 7 (Evorp)
 
 
 Changelogs (Update D7.3)
