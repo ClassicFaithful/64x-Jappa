@@ -9,10 +9,40 @@ Changelogs (Update D7.4)
 [Blocks]
 
 Coarse Dirt (Evorp)
+Exposed Copper (FHLX)
+Exposed Cut Copper (FHLX)
+Weeping Vines Plant (FHLX)
+Weeping Vines (FHLX)
+Twisting Vines Plant (FHLX)
+Twisting Vines (FHLX)
+Weathered Copper (FHLX)
+Weathered Cut Copper (FHLX)
+Dried Kelp Side (FHLX)
+Dried Kelp Top (FHLX)
+Oxidized Copper (FHLX)
+Oxidized Cut Copper (FHLX)
+
 
 
 [Particles]
 
+Explosion 0 (FHLX)
+Explosion 1 (FHLX)
+Explosion 2 (FHLX)
+Explosion 3 (FHLX)
+Explosion 4 (FHLX)
+Explosion 5 (FHLX)
+Explosion 6 (FHLX)
+Explosion 7 (FHLX)
+Explosion 8 (FHLX)
+Explosion 9 (FHLX)
+Explosion 10 (FHLX)
+Explosion 11 (FHLX)
+Explosion 12 (FHLX)
+Explosion 13 (FHLX)
+Explosion 14 (FHLX)
+Explosion 15 (FHLX)
+Soul Fire Flame (FHLX)
 
 
 Changelogs (Update D7.3)
