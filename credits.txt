@@ -22,6 +22,7 @@ Dried Kelp Top (FHLX)
 Oxidized Copper (FHLX)
 Oxidized Cut Copper (FHLX)
 End Rod (miniluv73)
+Lightning Rod (miniluv73)
 
 
 
