@@ -55,6 +55,32 @@ Glitter 6 (Evorp)
 Glitter 7 (Evorp)
 
 
+
+[Items]
+
+Netherite Pickaxe (Evorp, FHLX)
+Netherite Axe (Evorp, FHLX)
+Netherite Sword (Evorp, FHLX)
+Netherite Hoe (Evorp, FHLX)
+Netherite Shovel (Evorp, FHLX)
+Diamond Pickaxe (Evorp)
+Diamond Axe (Evorp)
+Diamond Sword (Evorp, FHLX)
+Diamond Hoe (Evorp)
+Diamond Shovel (Evorp)
+Iron Pickaxe (Evorp)
+Iron Axe (Evorp)
+Iron Sword (Evorp, FHLX)
+Iron Hoe (Evorp)
+Iron Shovel (Evorp)
+Stone Pickaxe (Evorp)
+Stone Axe (Evorp)
+Stone Sword (Evorp, FHLX)
+Stone Hoe (Evorp)
+Stone Shovel (Evorp)
+
+
+
 Changelogs (Update D7.3)
 
 
