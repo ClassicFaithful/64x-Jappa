@@ -2,6 +2,20 @@ NOTE: If there are duplicate contributions, the one on top will always be the cu
 
 NOTE II: If there are textures in the list which are no longer in the pack this is not a bug, it is just a result of the massive placeholder/bad texture removal in D6.2/D6.3.
 
+
+
+Changelogs (Update D8.1)
+
+[Blocks]
+
+Polished Blackstone (FHLX)
+Bell Bottom (FHLX)
+Bell Side (FHLX)
+Bell Top (FHLX)
+Chiseled Polished Blackstone (FHLX)
+
+
+
 Changelogs (Update D8)
 
 
