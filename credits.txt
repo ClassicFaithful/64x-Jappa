@@ -18,11 +18,29 @@ Sweet Berry Bush Stage 1 (FHLX)
 Sweet Berry Bush Stage 2 (FHLX)
 Sweet Berry Bush Stage 3 (FHLX)
 Sea Pickle (FHLX)
+Cake Top (FHLX)
+Cake Side (FHLX)
+Cake Inner (FHLX)
+Cake Bottom (FHLX)
+Hay Block Top (FHLX)
+Hay Block Side (FHLX)
 
 
 
 [Particles]
-
+Effect 0 (FHLX)
+Effect 1 (FHLX)
+Effect 2 (FHLX)
+Effect 3 (FHLX)
+Effect 4 (FHLX)
+Effect 5 (FHLX)
+Effect 6 (FHLX)
+Effect 7 (FHLX)
+Bubble Pop 0 (FHLX)
+Bubble Pop 1 (FHLX)
+Bubble Pop 2 (FHLX)
+Bubble Pop 3 (FHLX)
+Bubble Pop 4 (FHLX)
 
 
 Changelogs (Update D8)
