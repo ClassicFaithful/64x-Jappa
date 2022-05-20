@@ -8,6 +8,11 @@ Changelogs (Update D8.2)
 
 [Blocks]
 Cracked Deepslate Tiles (HARAG0N)
+Powder Snow (FHLX)
+Barrel Bottom (FHLX)
+Barrel Top (FHLX)
+Barrel Top Open (FHLX)
+Barrel Side (FHLX)
 
 
 [Particles]
