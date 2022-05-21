@@ -13,6 +13,11 @@ Barrel Bottom (FHLX)
 Barrel Top (FHLX)
 Barrel Top Open (FHLX)
 Barrel Side (FHLX)
+Cave Vines (FHLX)
+Cave Vines Lit (FHLX)
+Cave Vines Plant (FHLX)
+Cave Vines Plant Lit (FHLX)
+Sea Lantern (Evorp)
 
 
 [Particles]
