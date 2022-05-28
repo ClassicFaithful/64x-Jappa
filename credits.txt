@@ -37,8 +37,55 @@ Structure Block Save (FHLX)
 
 
 [Particles]
+Big Smoke 0 (FHLX)
+Big Smoke 1 (FHLX)
+Big Smoke 2 (FHLX)
+Big Smoke 3 (FHLX)
+Big Smoke 4 (FHLX)
+Big Smoke 5 (FHLX)
+Big Smoke 6 (FHLX)
+Big Smoke 7 (FHLX)
+Big Smoke 8 (FHLX)
+Big Smoke 9 (FHLX)
+Big Smoke 10 (FHLX)
+Big Smoke 11 (FHLX)
+Sweep 0 (FHLX)
+Sweep 1 (FHLX)
+Sweep 2 (FHLX)
+Sweep 3 (FHLX)
+Sweep 4 (FHLX)
+Sweep 5 (FHLX)
+Sweep 6 (FHLX)
+Sweep 7 (FHLX)
+Vibration (FHLX)
 
-
+[Painting]
+Alban (HiTeeN)
+Aztec (HiTeeN)
+Aztec 2 (HiTeeN)
+Bomb (HiTeeN)
+Burning Skull (HiTeeN)
+Bust (HiTeeN)
+Courbet (HiTeeN)
+Creebet (HiTeeN) [Placeholder]
+Donkey Kong (HiTeeN)
+Fighters (HiTeeN) [Placeholder]
+Graham (HiTeeN)
+Kebab (HiTeeN)
+Match (HiTeeN)
+Pigscene (HiTeeN) [Placeholder]
+Plant (HiTeeN)
+Pointer (HiTeeN)
+Pool (HiTeeN)
+Sea (HiTeeN)
+Skeleton (HiTeeN)
+Skull & Roses (HiTeeN) [Placeholder]
+Stage (HiTeeN)
+Sunset (HiTeeN)
+Void (HiTeeN)
+Wanderer (HiTeeN)
+Wasteland (HiTeeN)
+Wither (HiTeeN)
 
 Changelogs (Update D8.1)
 
