@@ -87,6 +87,12 @@ Wanderer (HiTeeN)
 Wasteland (HiTeeN)
 Wither (HiTeeN)
 
+[Mob Effect]
+Poison (FHLX)
+Speed (FHLX)
+Strength (FHLX)
+Weakness (FHLX)
+
 Changelogs (Update D8.1)
 
 
