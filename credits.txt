@@ -30,10 +30,11 @@ Sculk Sensor Bottom (FHLX, Aerod)
 Sculk Sensor Side (FHLX)
 Sculk Sensor Tendril Inactive (FHLX)
 Sculk Sensor Tendril Active (FHLX)
-Structure Block Corner (FHLX)
-Structure Block Data (FHLX)
-Structure Block Load (FHLX)
-Structure Block Save (FHLX)
+Structure Block (FHLX, TheOpWarrior208)
+Structure Block Corner (FHLX, TheOpWarrior208)
+Structure Block Data (FHLX, TheOpWarrior208)
+Structure Block Load (FHLX, TheOpWarrior208)
+Structure Block Save (FHLX, TheOpWarrior208)
 
 
 [Particles]
@@ -92,6 +93,9 @@ Poison (FHLX)
 Speed (FHLX)
 Strength (FHLX)
 Weakness (FHLX)
+Dolphin's Grace (FHLX)
+Wither (FHLX)
+Slowness (FHLX)
 
 Changelogs (Update D8.1)
 
