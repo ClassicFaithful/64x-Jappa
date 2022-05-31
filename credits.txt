@@ -35,6 +35,10 @@ Structure Block Corner (FHLX, TheOpWarrior208)
 Structure Block Data (FHLX, TheOpWarrior208)
 Structure Block Load (FHLX, TheOpWarrior208)
 Structure Block Save (FHLX, TheOpWarrior208)
+Jigsaw Top (TheOpWarrior208)
+Jigsaw Bottom (TheOpWarrior208)
+Jigsaw Side (TheOpWarrior208)
+Jigsaw Lock (TheOpWarrior208)
 
 
 [Particles]
