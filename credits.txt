@@ -13,6 +13,23 @@ Bamboo Stalk (FHLX)
 Bamboo Stage 0 (FHLX)
 Bamboo Large Leaves (FHLX)
 Bamboo Small Leaves (FHLX)
+Fletching Table Side (FHLX)
+Fletching Table Front (FHLX)
+Fletching Table Top (FHLX)
+Bone Block Side (FHLX)
+Bone Block Top (FHLX)
+Wet Sponge (FHLX)
+Sponge (FHLX) [PLACEHOLDER]
+Tripwire (FHLX)
+Target Side (HARAG0N)
+Target Top (HARAG0N)
+Hay Block Side (FHLX, HARAG0N) 
+
+[Mob Effect]
+Hero of the Village (Evorp)
+Mining Fatigue (Evorp)
+Regeneration (FHLX)
+Health Boost (FHLX)
 
 
 
