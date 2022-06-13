@@ -30,7 +30,11 @@ Hero of the Village (Evorp)
 Mining Fatigue (Evorp)
 Regeneration (FHLX)
 Health Boost (FHLX)
-
+Levitation (Evorp, FHLX)
+Nausea (FHLX)
+Fire Resistance (FHLX)
+Resistance (FHLX)
+Absorption (FHLX)
 
 
 Changelogs (Update D8.2)
