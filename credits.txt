@@ -35,6 +35,7 @@ Nausea (FHLX)
 Fire Resistance (FHLX)
 Resistance (FHLX)
 Absorption (FHLX)
+Haste (FHLX)
 
 
 Changelogs (Update D8.2)
