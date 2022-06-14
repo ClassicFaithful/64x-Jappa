@@ -21,9 +21,12 @@ Bone Block Top (FHLX)
 Wet Sponge (FHLX)
 Sponge (FHLX) [PLACEHOLDER]
 Tripwire (FHLX)
+Tripwire Hook (FHLX)
 Target Side (HARAG0N)
 Target Top (HARAG0N)
 Hay Block Side (FHLX, HARAG0N) 
+Redstone Lamp (FHLX)
+Redstone Lamp On (FHLX)
 
 [Mob Effect]
 Hero of the Village (Evorp)
