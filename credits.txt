@@ -11,6 +11,7 @@ Lectern Top (HARAG0N)
 Lectern Base (HARAG0N) 
 Lectern Sides (HARAG0N)
 Lectern Front (HARAG0N)
+Brewing Stand Base (HARAG0N, FHLX)
 
 Changelogs (Update D8.3)
 
