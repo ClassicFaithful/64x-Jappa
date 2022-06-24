@@ -12,6 +12,46 @@ Lectern Base (HARAG0N)
 Lectern Sides (HARAG0N)
 Lectern Front (HARAG0N)
 Brewing Stand Base (HARAG0N, FHLX)
+Oak Log (FHLX)
+Spruce Log (FHLX)
+Acacia Log (FHLX)
+Jungle Log (FHLX)
+Dark Oak Log (FHLX)
+Mangrove Log (FHLX)
+Oak Log Top (FHLX)
+Spruce Log Top (FHLX)
+Acacia Log Top (FHLX)
+Jungle Log Top (FHLX)
+Dark Oak Log Top (FHLX)
+Mangrove Log Top (FHLX)
+Birch Log Top (Evorp, FHLX)
+Crimson Stem Top (FHLX)
+Warped Stem Top (FHLX)
+Cocoa Stage 2 (FHLX)
+Cocoa Stage 1 (FHLX)
+Cocoa Stage 0 (FHLX)
+Mangrove Planks (Evorp, FHLX)
+
+
+[Particles]
+Sculk Soul 0 (FHLX)
+Sculk Soul 1 (FHLX)
+Sculk Soul 2 (FHLX)
+Sculk Soul 3 (FHLX)
+Sculk Soul 4 (FHLX)
+Sculk Soul 5 (FHLX)
+Sculk Soul 6 (FHLX)
+Sculk Soul 7 (FHLX)
+Sculk Soul 8 (FHLX)
+Sculk Soul 9 (FHLX)
+Sculk Soul 10 (FHLX)
+
+[Mob Effect]
+Water Breathing (TheOpWarrior208)
+Night Vision (TheOpWarrior208)
+Blindness (TheOpWarrior208)
+
+
 
 Changelogs (Update D8.3)
 
