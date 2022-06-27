@@ -31,6 +31,12 @@ Cocoa Stage 2 (FHLX)
 Cocoa Stage 1 (FHLX)
 Cocoa Stage 0 (FHLX)
 Mangrove Planks (Evorp, FHLX)
+Oak Leaves (FHLX) [Placeholder]
+Dark Oak Leaves (FHLX) [Placeholder]
+Spruce Leaves (FHLX) [Placeholder]
+Birch Leaves (FHLX) [Placeholder]
+Acacia Leaves (FHLX) [Placeholder]
+Jungle Leaves (FHLX) [Placeholder]
 
 
 [Particles]
@@ -45,11 +51,41 @@ Sculk Soul 7 (FHLX)
 Sculk Soul 8 (FHLX)
 Sculk Soul 9 (FHLX)
 Sculk Soul 10 (FHLX)
+Sculk Charge 0 (FHLX)
+Sculk Charge 1 (FHLX)
+Sculk Charge 2 (FHLX)
+Sculk Charge 3 (FHLX)
+Sculk Charge 4 (FHLX)
+Sculk Charge 5 (FHLX)
+Sculk Charge 6 (FHLX)
+Sonic Boom 0 (FHLX)
+Sonic Boom 1 (FHLX)
+Sonic Boom 2 (FHLX)
+Sonic Boom 3 (FHLX)
+Sonic Boom 4 (FHLX)
+Sonic Boom 5 (FHLX)
+Sonic Boom 6 (FHLX)
+Sonic Boom 7 (FHLX)
+Sonic Boom 8 (FHLX)
+Sonic Boom 9 (FHLX)
+Sonic Boom 10 (FHLX)
+Sonic Boom 11 (FHLX)
+Sonic Boom 12 (FHLX)
+Sonic Boom 13 (FHLX
+Sonic Boom 14 (FHLX)
+Sonic Boom 15 (FHLX)
+Shriek (FHLX)
 
 [Mob Effect]
 Water Breathing (TheOpWarrior208)
 Night Vision (TheOpWarrior208)
 Blindness (TheOpWarrior208)
+Darkness (TheOpWarrior208)
+Jump Boost (TheOpWarrior208)
+Bad Omen (TheOpWarrior208)
+Instant Health (TheOpWarrior208)
+Instant Dammage (TheOpWarrior208)
+Invisibility (HARAG0N)
 
 
 
