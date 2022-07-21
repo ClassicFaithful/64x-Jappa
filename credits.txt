@@ -5,10 +5,36 @@ NOTE II: If there are textures in the list which are no longer in the pack this 
 Changelogs (Update D8.5)
 
 [Blocks]
+Deepslate Coal Ore (HARAG0N, Tweaks by Evorp/Shaggy)
 Emerald Block (Evorp)
 Diamond Block (Tweaks by Evorp)
 Gold Block (Tweaks by Evorp)
+Mangrove Leaves (FHLX)
+Mangrove Roots (FHLX)
+Mangrove Roots Top (FHLX)
+Stripped Mangrove Log (FHLX)
+Stripped Mangrove Log Top (FHLX)
+Mud Bricks (FHLX)
+Mud (FHLX)
+Muddy Mangrove Roots Side (FHLX)
+Muddy Mangrove Roots Front (FHLX)
+Turtle Egg (TheOpWarrior208)
+Turtle Egg Slightly Cracked (TheOpWarrior208)
+Turtle Egg Very Cracked (TheOpWarrior208)
 
+
+
+[Mob Effect]  
+Luck (TheOpWarrior208)
+Unluck (TheOpWarrior208)
+
+[Environment]
+Sun (HiTeeN)
+Moon Phases (FHLX, Evorp)
+
+[Item]
+Goat Horn (FHLX)
+Echo Shard (FHLX)
 
 Changelogs (Update D8.4)
 
