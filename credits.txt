@@ -5,10 +5,10 @@ NOTE II: If there are textures in the list which are no longer in the pack this 
 Changelogs (Update D8.5)
 
 [Blocks]
-Deepslate Coal Ore (HARAG0N, Tweaks by Evorp/Shaggy)
+Deepslate Coal Ore (HARAG0N, Evorp, Shaggy) [Fixes]
 Emerald Block (Evorp)
-Diamond Block (Tweaks by Evorp)
-Gold Block (Tweaks by Evorp)
+Diamond Block (FHLX, Evorp) [Fixes]
+Gold Block (FHLX, Evorp) [Fixes]
 Mangrove Leaves (FHLX)
 Mangrove Roots (FHLX)
 Mangrove Roots Top (FHLX)
@@ -21,20 +21,53 @@ Muddy Mangrove Roots Front (FHLX)
 Turtle Egg (TheOpWarrior208)
 Turtle Egg Slightly Cracked (TheOpWarrior208)
 Turtle Egg Very Cracked (TheOpWarrior208)
-
+Acacia Door Bottom (FHLX) [Hinges]
+Acacia Door Top (FHLX) [Hinges]
+Birch Door Bottom (FHLX) [Hinges]
+Birch Door Top (FHLX) [Hinges]
+Oak Door Bottom (FHLX) [Hinges]
+Oak Door Top (FHLX) [Hinges]
+Dark Oak Door Bottom (FHLX) [Hinges]
+Dark Oak Door Top (FHLX) [Hinges]
+Jungle Door Bottom(FHLX) [Hinges]
+Jungle Door Top (FHLX) [Hinges]
+Iron Door Top (FHLX) [Hinges]
+Iron Door Bottom (FHLX) [Hinges]
+Scaffolding Top (Zeuselpro)
+Scaffolding Side (Zeuselpro)
+Scaffolding Bottom (Zeuselpro)
 
 
 [Mob Effect]  
 Luck (TheOpWarrior208)
 Unluck (TheOpWarrior208)
+Bad Omen (TheOpWarior208) [Fixes]
+Conduit Power (TheOpWarrior208)
+Glowing (TheOpWarrior208)
 
 [Environment]
 Sun (HiTeeN)
 Moon Phases (FHLX, Evorp)
 
-[Item]
+[Items]
 Goat Horn (FHLX)
 Echo Shard (FHLX)
+Music Disc 5 (FHLX)
+Music Disc 13 (FHLX)
+Music Disc Cat (FHLX)
+Music Disc Blocks (FHLX)
+Music Disc Chirp (FHLX)
+Music Disc Mall (FHLX)
+Music Disc Mellohi (FHLX)
+Music Disc Otherside (FHLX)
+Music Disc Pigstep (FHLX)
+Music Disc Strad (FHLX)
+Music Disc Wait (FHLX)
+Music Disc Ward (FHLX)
+Music Disc Far (FHLX)
+Music Disc Stal (FHLX)
+Music Disc 11 (FHLX)
+Disc Fragment 5 (FHLX)
 
 Changelogs (Update D8.4)
 
