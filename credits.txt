@@ -2,6 +2,22 @@ NOTE: If there are duplicate contributions, the one on top will always be the cu
 
 NOTE II: If there are textures in the list which are no longer in the pack this is not a bug, it is just a result of the massive placeholder/bad texture removal in D6.2/D6.3.
 
+Changelogs (Update D8.6)
+
+[Blocks]
+Pearlescent Froglight Side (FHLX)
+Pearlescent Froglight Top (FHLX)
+Verdant Froglight Side (FHLX)
+Verdant Froglight Top (FHLX)
+Ochre Froglight Side (FHLX)
+Ochre Froglight Top (FHLX)
+Beehive Side (FHLX)
+Beehive Front (FHLX)
+Beehive Front Honey (FHLX)
+Beehive Top (FHLX)
+Beehive Bottom (FHLX)
+
+
 Changelogs (Update D8.5)
 
 [Blocks]
