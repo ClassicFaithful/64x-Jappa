@@ -16,6 +16,18 @@ Beehive Front (FHLX)
 Beehive Front Honey (FHLX)
 Beehive Top (FHLX)
 Beehive Bottom (FHLX)
+Big Dripleaf Tip (FHLX)
+Big Dripleaf Top (FHLX)
+Big Dripleaf Side (FHLX)
+Big Dripleaf Stem (FHLX)
+Small Dripleaf Side (FHLX)
+Small Dripleaf Top (FHLX)
+Small Dripleaf Stem Top (FHLX)
+Small Dripleaf Stem Bottom (FHLX)
+Mangrove Propagule (FHLX)
+
+[Items]
+Mangrove Propagule (FHLX)
 
 
 Changelogs (Update D8.5)
