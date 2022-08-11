@@ -25,10 +25,27 @@ Small Dripleaf Top (FHLX)
 Small Dripleaf Stem Top (FHLX)
 Small Dripleaf Stem Bottom (FHLX)
 Mangrove Propagule (FHLX)
+Spore Blossom (FHLX)
+Spore Blossom Base (FHLX)
 
 [Items]
 Mangrove Propagule (FHLX)
-
+Mangrove Sign (FHLX)
+Tadpole Bucket (FHLX)
+Acacia Boat (HARAG0N, TheOpWarrior208)
+Acacia Chest Boat (TheOpWarrior208)
+Birch Boat (HARAG0N, TheOpWarrior208)
+Birch Chest Boat (TheOpWarrior208)
+Dark Oak Boat (HARAG0N, TheOpWarrior208)
+Dark Oak Chest Boat (TheOpWarrior208)
+Jungle Boat (HARAG0N, TheOpWarrior208)
+Jungle Chest Boat (TheOpWarrior208)
+Mangrove Boat (HARAG0N, TheOpWarrior208)
+Mangrove Chest Boat (TheOpWarrior208)
+Oak Boat (HARAG0N, TheOpWarrior208)
+Oak Chest Boat (TheOpWarrior208)
+Spruce Boat (HARAG0N, TheOpWarrior208)
+Spruce Chest Boat (TheOpWarrior208)
 
 Changelogs (Update D8.5)
 
