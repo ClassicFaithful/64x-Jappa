@@ -2,6 +2,31 @@ NOTE: If there are duplicate contributions, the one on top will always be the cu
 
 NOTE II: If there are textures in the list which are no longer in the pack this is not a bug, it is just a result of the massive placeholder/bad texture removal in D6.2/D6.3.
 
+Changelogs (Update D8.7)
+
+[Blocks]
+Moss Block (FHLX)
+White Glazed Terracotta (FHLX)
+Red Glazed Terracotta (FHLX)
+Pink Glazed Terracotta (FHLX)
+Light Blue Glazed Terracotta (FHLX)
+Green Glazed Terracotta (FHLX)
+Gray Glazed Terracotta (FHLX)
+Cyan Glazed Terracotta (FHLX)
+Blue Glazed Terracotta (FHLX)
+Black Glazed Terracotta (FHLX)
+Brown Glazed Terracotta (FHLX)
+Orange Glazed Terracotta (FHLX)
+Purple Glazed Terracotta (TheOPWarrior208)
+Magenta Glazed Terracotta (TheOPWarrior208)
+
+
+[Particles]
+Sculk Charge Pop 0 (FHLX)
+Sculk Charge Pop 1 (FHLX)
+Sculk Charge Pop 2 (FHLX)
+Sculk Charge Pop 3 (FHLX)
+
 Changelogs (Update D8.6)
 
 [Blocks]
