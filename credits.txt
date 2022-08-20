@@ -84,7 +84,7 @@ Recovery Compass 20 (FHLX, Evorp)
 Recovery Compass 21 (FHLX, Evorp)
 Recovery Compass 22 (FHLX, Evorp)
 Recovery Compass 23 (FHLX, Evorp)
-Recovery ompass 24 (FHLX, Evorp)
+Recovery Compass 24 (FHLX, Evorp)
 Recovery Compass 25 (FHLX, Evorp)
 Recovery Compass 26 (FHLX, Evorp)
 Recovery Compass 27 (FHLX, Evorp)
@@ -92,6 +92,12 @@ Recovery Compass 28 (FHLX, Evorp)
 Recovery Compass 29 (FHLX, Evorp)
 Recovery Compass 30 (FHLX, Evorp)
 Recovery Compass 31 (FHLX, Evorp)
+
+[Painting]
+Earth (FHLX) [Placeholder]
+Fire (FHLX) [Placeholder]
+Water (FHLX) [Placeholder]
+Wind (FHLX) [Placeholder]
 
 
 Changelogs (Update D8.6)
