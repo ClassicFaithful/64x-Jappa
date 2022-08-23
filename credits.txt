@@ -96,8 +96,8 @@ Recovery Compass 28 (FHLX, Evorp)
 Recovery Compass 29 (FHLX, Evorp)
 Recovery Compass 30 (FHLX, Evorp)
 Recovery Compass 31 (FHLX, Evorp)
-Soul Campfire (Zeuselpro, RodrigoTR)
-Campfire (Zeuselpro, RodrigoTR)
+Soul Campfire (Zeuselpro, RodrigoTR) [Fixes]
+Campfire (Zeuselpro, RodrigoTR) [Fixes]
 
 [Painting]
 Earth (FHLX) [Placeholder]
