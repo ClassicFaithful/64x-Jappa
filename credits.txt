@@ -2,6 +2,15 @@ NOTE: If there are duplicate contributions, the one on top will always be the cu
 
 NOTE II: If there are textures in the list which are no longer in the pack this is not a bug, it is just a result of the massive placeholder/bad texture removal in D6.2/D6.3.
 
+Changelogs (Update D8.8)
+
+[Blocks]
+Campfire Log (HARAG0N)
+Campfire Log Lit (HARAG0N)
+Soul Campfire Log Lit (HARAG0N)
+Campfire Fire (HARAG0N)
+Soul Campfire Fire (HARAG0N, FHLX)
+
 Changelogs (Update D8.7)
 
 [Blocks]
