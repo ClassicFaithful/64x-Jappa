@@ -10,6 +10,18 @@ Campfire Log Lit (HARAG0N)
 Soul Campfire Log Lit (HARAG0N)
 Campfire Fire (HARAG0N)
 Soul Campfire Fire (HARAG0N, FHLX)
+Reinforced Deepslate Side (FHLX)
+Reinforced Deepslate Top (FHLX)
+Reinforced Deepslate Bottom (FHLX)
+Azalea Leaves (FHLX)
+Azalea Top (FHLX)
+Azalea Side (FHLX)
+Azalea Plant (FHLX)
+Flowering Azalea Leaves (FHLX)
+Flowering Azalea Top (FHLX)
+Flowering Azalea Side (FHLX)
+Oak Leaves (FHLX) [Fixes]
+Dark Oak  Leaves (FHLX) [Fixes]
 
 Changelogs (Update D8.7)
 
