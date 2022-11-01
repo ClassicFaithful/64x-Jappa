@@ -2,6 +2,30 @@ NOTE: If there are duplicate contributions, the one on top will always be the cu
 
 NOTE II: If there are textures in the list which are no longer in the pack this is not a bug, it is just a result of the massive placeholder/bad texture removal in D6.2/D6.3.
 
+Changelogs (Update D8.10)
+
+[Blocks]
+Bamboo Door Bottom (FHLX)
+Bamboo Door Top (FHLX)
+Bamboo Planks (FHLX)
+Bamboo Trapdoor (FHLX)
+Sculk Shrieker Side (FHLX)
+Sculk Shrieker Top (FHLX)
+Sculk Shrieker Bottom (HARYA_)
+Sculk Shrieker Inner Top (FHLX)
+Sculk Shrieker Can Summon Inner Top (FHLX)
+
+[Items]
+Oak Hanging Sign (FHLX)
+Spruce Hanging Sign (FHLX)
+Birch Hanging Sign (FHLX)
+Acacia Hanging Sign (FHLX)
+Dark Oak Hanging Sign (FHLX)
+Jungle Hanging Sign (FHLX)
+Warped Hanging Sign (FHLX)
+Crimson Hanging Sign (FHLX)
+Mangrove Hanging Sign (FHLX)
+
 Changelogs (Update D8.9)
 
 Polished Basalt Side (FHLX)
