@@ -4,7 +4,7 @@ The 64x part in the Classic Faithful lineup, aiming to bring back the original p
 <img src="https://database.faithfulpack.net/images/branding/social%20media/banners/github/cf64_banner.png" align="center" height="384px">
 
 # How to actually get to the pack:
-## Important Note: Only version 1.18 and 1.19 is currently actively supported and actually have files in the branches, your GitHub is not broken and this is not a bug.
+## Important Note: Only versions 1.18, 1.19, and 1.20 are currently actively supported and actually have files in the branches, your GitHub is not broken and this is not a bug.
 
 Find the version you are looking for, and from there follow the instructions below:
 
