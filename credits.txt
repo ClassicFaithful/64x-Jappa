@@ -2,6 +2,34 @@ NOTE: If there are duplicate contributions, the one on top will always be the cu
 
 NOTE II: If there are textures in the list which are no longer in the pack this is not a bug, it is just a result of the massive placeholder/bad texture removal in D6.2/D6.3.
 
+Changelogs (Update D9)
+
+[Blocks]
+Bamboo Planks (FHLX)
+Stripped Bamboo Block (FHLX)
+Stripped Bamboo Block Top (FHLX)
+Bamboo Mosaic (FHLX)
+Bamboo Fencee (FHLX)
+
+[Items]
+Raw Gold (FHLX, Evorp)
+Empty Slot Axe (Shaggy)
+Empty Slot Hoe (Shaggy)
+Empty Slot Ingot (Shaggy)
+Empty Slot Lapis Lazuli (Shaggy)
+Empty Slot Pickaxe (Shaggy)
+Empty Slot Sword (Shaggy)
+Empty Armor Slot Leggings (Shaggy)
+Emmpty Slot Emerald (Shaggy)
+Empty Armor Slot Boots (Shaggy)
+Cherry Boat (Shaggy)
+Cherry Hanging Sign (Shaggy)
+Cherry Chest Boat (Shaggy)
+Cherry Planks (Shaggy)
+Cherry Sign (Shaggy)
+Nether Star (ZapPack, Evorp)
+ 
+
 Changelogs (Update D8.10)
 
 [Blocks]
