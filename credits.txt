@@ -10,6 +10,8 @@ Stripped Bamboo Block (FHLX)
 Stripped Bamboo Block Top (FHLX)
 Bamboo Mosaic (FHLX)
 Bamboo Fencee (FHLX)
+Bamboo Block (FHLX)
+Bamboo Block Top (FHLX)
 
 [Items]
 Raw Gold (FHLX, Evorp)
