@@ -2,16 +2,39 @@ NOTE: If there are duplicate contributions, the one on top will always be the cu
 
 NOTE II: If there are textures in the list which are no longer in the pack this is not a bug, it is just a result of the massive placeholder/bad texture removal in D6.2/D6.3.
 
-Changelogs (Update D9)
+Changelogs (Update D8.12)
 
 [Blocks]
 Bamboo Planks (FHLX)
 Stripped Bamboo Block (FHLX)
 Stripped Bamboo Block Top (FHLX)
 Bamboo Mosaic (FHLX)
-Bamboo Fencee (FHLX)
+Bamboo Fence (FHLX)
+Bamboo Fence Gate (FHLX)
+Bamboo Fence Particle (FHLX)
+Bamboo Fence Gate Particle (FHLX)
 Bamboo Block (FHLX)
 Bamboo Block Top (FHLX)
+Torchflower Crop Stage 0 (FHLX)
+Torchflwoer Crop Stage 1 (FHLX)
+Torchflower Crop Stage 2 (FHLX)
+Chiseled Bookshelf Side (FHLX)
+Chiseled Bookshelf Top (FHLX)
+Chiseled Bookshelf Empty (FHLX)
+Chiseled Bookshelf Occupied (FHLX)
+Fern (Evorp)
+Fishing Hook (Evorp, Klonoa)
+Furnace Front (Zeuselpro)
+Furnace Front On (Zeuselpro)
+Furnace Side (Zeuselpro)
+Furnace Top (Zeuselpro)
+Smoker Bottom (Zeuselpro, FHLX)
+Smoker Side (Zeuselpro, FHLX)
+Smoker Top (Zeuselpro, FHLX)
+Dispenser Front (Zeuselpro)
+Dispense Front Vertical (Zeuselpro)
+Dropper Front (Zeuselpro)
+Dropper Front Vertical (Zeuselpro)
 
 [Items]
 Raw Gold (FHLX, Evorp)
@@ -30,6 +53,8 @@ Cherry Chest Boat (Shaggy)
 Cherry Planks (Shaggy)
 Cherry Sign (Shaggy)
 Nether Star (ZapPack, Evorp)
+Bamboo Hanging Sign (FHLX)
+Torchflower Seeds (FHLX)
  
 
 Changelogs (Update D8.10)
