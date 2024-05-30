@@ -1,7 +1,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-Icon
+/Icon
 ._*
 .DocumentRevisions-V100
 .fseventsd
@@ -26,5 +26,4 @@ ehthumbs_vista.db
 .directory
 .Trash-*
 .nfs*
-missing_64_1-25-22.txt
 missing_textures.exe
