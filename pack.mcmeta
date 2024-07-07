@@ -1,10 +1,10 @@
 {
   "pack": {
-    "pack_format": 22,
+    "pack_format": 32,
     "description": "Vattic's Refreshed Style in 64x §8By FHLX and many others"
   },
   "supported_formats": {
     "min_inclusive": 16,
-    "max_inclusive": 22
+    "max_inclusive": 32
   }
 }
